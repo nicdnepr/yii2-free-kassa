@@ -12,7 +12,7 @@ use yii\helpers\Json;
 use yii\helpers\VarDumper;
 use yii\web\ForbiddenHttpException;
 use yii\web\HttpException;
-use yiidreamteam\perfectmoney\events\GatewayEvent;
+use yarcode\freekassa\events\GatewayEvent;
 
 /**
  * Class Merchant
